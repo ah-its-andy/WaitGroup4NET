@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RootNamespace>StandardCore.Routine</RootNamespace>
+    <Authors>StandardCore</Authors>
+    <PackageProjectUrl>https://github.com/standardcore/WaitGroup4NET</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/standardcore/WaitGroup4NET.git</RepositoryUrl>
+    <RepositoryType>GIT</RepositoryType>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/standardcore/WaitGroup4NET/master/LICENSE</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
 </Project>
